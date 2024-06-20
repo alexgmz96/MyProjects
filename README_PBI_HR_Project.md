@@ -1,4 +1,4 @@
-# HR Dashboard
+# HR Project
 
 ### Dashboard Link: https://app.powerbi.com/groups/me/reports/710c8fcc-aaf6-4bac-a5a1-0c4004e01436/65b8b4a858a5e8eb0c2e?experience=power-bi
 
