@@ -110,15 +110,15 @@ A large proportion of employees are highly rated, indicating overall good perfor
 
 ### Recommendations
 
-*1. Enhance Employee Engagement:* Implement initiatives to improve job satisfaction, especially for the 459 employees with low satisfaction. Consider surveys, feedback sessions, and employee recognition programs.
+**1. Enhance Employee Engagement:** Implement initiatives to improve job satisfaction, especially for the 459 employees with low satisfaction. Consider surveys, feedback sessions, and employee recognition programs.
 
-*2.	Review Overtime Policies:* Although the majority of employees are not working overtime, review workloads and consider if overtime could be managed more effectively to boost productivity without overburdening staff.
+**2.	Review Overtime Policies:** Although the majority of employees are not working overtime, review workloads and consider if overtime could be managed more effectively to boost productivity without overburdening staff.
 
-*3.	Departmental Focus:* Investigate the high number of layoffs in the Research & Development and Manager roles. Provide additional support, training, and career development opportunities to reduce layoffs and improve performance.
+**3.	Departmental Focus:** Investigate the high number of layoffs in the Research & Development and Manager roles. Provide additional support, training, and career development opportunities to reduce layoffs and improve performance.
 
-*4.	Promotion Planning:* Develop a clear career progression plan for employees, particularly in departments with a high number of employees due for promotion, to ensure they are engaged and motivated.
+**4.	Promotion Planning:** Develop a clear career progression plan for employees, particularly in departments with a high number of employees due for promotion, to ensure they are engaged and motivated.
 
-*5.	Performance Improvement Programs:* For the 15.37% low-rated employees, create targeted performance improvement plans and provide the necessary training and support to help them improve their performance.
+**5.	Performance Improvement Programs:** For the 15.37% low-rated employees, create targeted performance improvement plans and provide the necessary training and support to help them improve their performance.
 These insights and recommendations will help the HR department to make informed decisions to enhance employee satisfaction, performance, and overall organizational efficiency.
 
 ## Home Tab
