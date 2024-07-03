@@ -70,7 +70,7 @@ AND BMI >0
 ORDER BY BMI ASC
 ;
 
-#Let's apply a window function to determine Tolling Total or the total amount of deaths over the last 15 years as established in the
+#Let's apply a window function to determine Rolling Total or the total amount of deaths over the last 15 years as established in the
 #data 
 SELECT Country,
 Year,
