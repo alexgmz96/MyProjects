@@ -1,7 +1,7 @@
 # World Life Expectancy Data Cleaning Project
 
 
-## Problem Overview
+## Project Overview
 
 This project involves cleaning a dataset containing information on life expectancy around the world. The data cleaning process includes identifying and handling duplicates, dealing with missing values, and ensuring data consistency for accurate analysis. The cleaned data can then be used for further exploratory analysis and reporting.
 
