@@ -2,7 +2,7 @@
 
 ### Dashboard Link: https://app.powerbi.com/groups/me/reports/710c8fcc-aaf6-4bac-a5a1-0c4004e01436/65b8b4a858a5e8eb0c2e?experience=power-bi
 
-## Problem Statement
+## Project Overview
 
 This HR dashboard provides detailed insights into the workforce of the company. It allows the HR department to track various employee metrics such as total employees, gender distribution, promotion due status, service years, job levels, and distance to the office.
 
