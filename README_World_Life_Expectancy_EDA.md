@@ -1,7 +1,7 @@
-# World Life Expectancy Exploratory Data Analysis
+# World Life Expectancy Exploratory Data Analysis Project
 
 
-## Problem Overview
+## Project Overview
 
 This project involves performing exploratory data analysis (EDA) on a dataset containing information on life expectancy around the world. The analysis aims to identify trends, correlations, and insights that can be drawn from the data regarding life expectancy, GDP, BMI, and other factors.
 
