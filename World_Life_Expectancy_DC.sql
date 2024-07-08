@@ -1,4 +1,4 @@
-#Data Cleaning
+#Data Cleaning 
 
 SELECT * FROM World_Life_Expectancy.world_life_expectancy;
 
