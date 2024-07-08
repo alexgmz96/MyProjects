@@ -1,4 +1,4 @@
-#Exploratory Data Analysis
+#Exploratory Data Analysis 
 
 #Taking a glimpse of the data
 SELECT *
