@@ -1,4 +1,4 @@
-# British Airways Review Project
+# British Airways Reviews Project
 
 ### Dashboard Link: https://public.tableau.com/app/profile/alejandro.gomez2790/viz/BritishAirwaysReview_17141802042030/Dashboard1?publish=yes
 
